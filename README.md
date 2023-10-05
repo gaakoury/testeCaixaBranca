@@ -7,11 +7,10 @@ Feita a Criação do Grafo de fluxo do código em questão, seguindo a enumeraç
 
 Seguindo o modelo, a Complexidade Ciclomática se é dada da seguinte maneira:
 
-V(G) = 5 - 5 + 2
-V(G) = 2
+V(G) = 5 - 5 + 2 = 2
 
 E as possíveis sequencias são:
 
-1-2
-1-3-4-1-2
-1-3-4-1-5
+- CAMINHO 1: 1-2
+- CAMINHO 2: 1-3-4-1-2
+- CAMINHO 3: 1-3-4-1-5
